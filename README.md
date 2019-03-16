@@ -20,7 +20,7 @@ Below are the categories that Toysrus has divided.
 
 토이저러스가 나눠 놓은 카테고리는 다음과 같다.
 
-<img width="1280" alt="Toysrus_ko" src="https://user-images.githubusercontent.com/39266586/54478702-8c67a480-47eb-11e9-9bcb-63c11edac62f.png">
+<img width="1280" alt="Toysrus_ko" src="https://user-images.githubusercontent.com/39266586/54480361-e83b2900-47fd-11e9-9d04-2467da2bc2cf.png">
 
 As you can see, there are huge difference between Girls' and Boys' categories. This categories are set to strengthen gender roles and gender stereotypes. If there is a obvious color difference between these categories, the color would mean more than just a color.
 
