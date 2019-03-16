@@ -6,7 +6,7 @@ This project is the result of analyzing the colors of toys sold in Korea. We exa
 
 아래는 프로젝트의 목적과 문제제기이며, 가독성을 위해 -다 체로 작성하였습니다.
 
-# Purpose and Aim
+# Purpose & Rasing a question
 
 In this project, we looked to find out if there is a noticeable color difference between toys for girls and toys for boys, and to see if the toy industry is producing and selling colors of the products according to gender.
 
@@ -20,7 +20,7 @@ Below are the categories that Toysrus has divided.
 
 토이저러스가 나눠 놓은 카테고리는 다음과 같다.
 
-![img](toysrus_ko.png)
+<img width="1280" alt="Toysrus_ko" src="https://user-images.githubusercontent.com/39266586/54478702-8c67a480-47eb-11e9-9bcb-63c11edac62f.png">
 
 As you can see, there are huge difference between Girls' and Boys' categories. This categories are set to strengthen gender roles and gender stereotypes. If there is a obvious color difference between these categories, the color would mean more than just a color.
 
@@ -28,15 +28,11 @@ It would be the clue that the society is forcing a specific color on a particula
 
 보다시피, 이 카테고리는 성 역할과 성 고정관념을 강화하는 방향으로 설정되어 있다. 만약 이 카테고리 간에 확연한 색상 차이가 있다면, 그것은 단순한 색상 이상을 의미할 것이다. 이는 사회가 특정 성별에게 특정 색을 강요한다는 사실의 단서가 될 것이며, 이것이 곧 성 역할을 고착화하는 방식으로 작동한다는 의미일 것이다.
 
-# Rasing a question
-
 * What about other countries?
 
   다른 나라는 어떨까?
 
-  
-
-  ![img](toysrus_us.png)
+<img width="1280" alt="toysrus_us" src="https://user-images.githubusercontent.com/39266586/54478687-68a45e80-47eb-11e9-9f34-949f76cddd13.png">
 
 [^id]:Online mall of Toysrus US
 
@@ -46,7 +42,7 @@ It would be the clue that the society is forcing a specific color on a particula
 
 ​	위 이미지는 토이저러스의 본사인 미국 토이저러스의 카테고리이다. Costumes 카테고리를 제외하고는 한국처럼 카테고리 전체에서 성별 구분이 되어 있지는 않다. 그러나 카테고리 전반에서 성차별적이거나 성 고정관념을 강화시키는 부분들을 찾을 수 있다. 예를 들어, 인형 & 소품 카테고리를 대표하는 이미지는 바비인형이고, 이 카테고리의 세부 카테고리는 악세사리, 소장품 인형, 패션 인형이다. 드레스를 입고 작은 티아라를 쓰고 있는 여자아이 이미지가 있는 카테고리도 있는데, 바로 "드레스 업 & 역할 놀이" 카테고리이다. 이 카테고리는 *남아 복장, 여아 복장*, **여아 악세사리, 남아 액션 놀이** 등으로 구성되어 있다.
 
-![img](Dress-up & Role Play.png)
+<img width="570" alt="Dress-Up   Role Play" src="https://user-images.githubusercontent.com/39266586/54478685-68a45e80-47eb-11e9-9bb1-2461b069c030.png">
 
 [^id]: Banner of Dress-up & Role Play
 
