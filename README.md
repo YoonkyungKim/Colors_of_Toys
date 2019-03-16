@@ -34,8 +34,6 @@ It would be the clue that the society is forcing a specific color on a particula
 
 <img width="1280" alt="toysrus_us" src="https://user-images.githubusercontent.com/39266586/54478687-68a45e80-47eb-11e9-9f34-949f76cddd13.png">
 
-[^id]:Online mall of Toysrus US
-
 ---
 
 ​	The above image is categories of Toysrus US, the headquarter of Toysrus. First of all, there is no gender classification across the whole categories except Costumes category. However, we can find some aspects that are sexist or reinforce sex stereotypes throughout the categories, which is similar to Korea. For example, the image that represents Dolls & Collectibles is Barbie, and their subcategories are Accessories, Collectible figurines, and Fashion Dolls. There is other category with an image of a girl wearing a dress and a small tiara, name of the category is "Dress-Up & Role Play". This category contains *Boys' Costumes, Girls' Costumes*, **Girls Accessories, Boys Action Play**, Kitchen & Food Play, Workshop & Tools, Musical Instruments. 
@@ -43,8 +41,6 @@ It would be the clue that the society is forcing a specific color on a particula
 ​	위 이미지는 토이저러스의 본사인 미국 토이저러스의 카테고리이다. Costumes 카테고리를 제외하고는 한국처럼 카테고리 전체에서 성별 구분이 되어 있지는 않다. 그러나 카테고리 전반에서 성차별적이거나 성 고정관념을 강화시키는 부분들을 찾을 수 있다. 예를 들어, 인형 & 소품 카테고리를 대표하는 이미지는 바비인형이고, 이 카테고리의 세부 카테고리는 악세사리, 소장품 인형, 패션 인형이다. 드레스를 입고 작은 티아라를 쓰고 있는 여자아이 이미지가 있는 카테고리도 있는데, 바로 "드레스 업 & 역할 놀이" 카테고리이다. 이 카테고리는 *남아 복장, 여아 복장*, **여아 악세사리, 남아 액션 놀이** 등으로 구성되어 있다.
 
 <img width="570" alt="Dress-Up   Role Play" src="https://user-images.githubusercontent.com/39266586/54478685-68a45e80-47eb-11e9-9bb1-2461b069c030.png">
-
-[^id]: Banner of Dress-up & Role Play
 
 Gender classification in all products are have a negative impact on people, but gender distinction in children's toys is particularly significant. It cause children to internalize gender stereotypes and grow, and it influences children's self-esteem and intellectual prowess. Toys take a role in developing children's various competence, including physical, academic, and artistic. If toys are separated by gender, it will have a negative impact on the children's balanced development. Especially, toys that is still focused on role play and doll limit girls' potential. 
 
